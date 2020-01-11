@@ -1,1 +1,1 @@
-module.exports = require('./lib/server');
+module.exports ={Server: require('./lib/server'),WebService:require('./lib/web-service')};
